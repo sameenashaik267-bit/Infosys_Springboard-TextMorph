@@ -1,1 +1,12 @@
 
+streamlit
+pyjwt
+bcrypt
+python-dotenv
+pyngrok
+nltk
+streamlit-option-menu
+plotly
+textstat
+PyPDF2
+readability-lxml
