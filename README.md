@@ -1,4 +1,4 @@
-TEXTMORPH.AI- Admin Analytics Dashboard & User Personalization
+# Milestone 4 – Admin Analytics Dashboard & User Personalization
 
 ## Description
 In this milestone, the application was significantly enhanced by introducing a powerful **Admin Management and Analytics Dashboard** along with advanced **User Profile Personalization** features. The Admin panel now acts as a centralized control system that allows administrators to manage users, monitor platform activity, analyze system usage through interactive visualizations, and export important data for further analysis.
